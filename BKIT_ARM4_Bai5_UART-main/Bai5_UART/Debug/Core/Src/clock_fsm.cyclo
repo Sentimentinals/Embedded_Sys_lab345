@@ -1,0 +1,15 @@
+../Core/Src/clock_fsm.c:130:13:enter_message_display_mode	2
+../Core/Src/clock_fsm.c:147:13:handle_message_display_mode	2
+../Core/Src/clock_fsm.c:161:16:get_max_date	7
+../Core/Src/clock_fsm.c:175:13:increment_setting	8
+../Core/Src/clock_fsm.c:191:13:decrement_setting	11
+../Core/Src/clock_fsm.c:214:13:increment_alarm_setting	5
+../Core/Src/clock_fsm.c:222:13:decrement_alarm_setting	5
+../Core/Src/clock_fsm.c:235:13:handle_mode_switch	7
+../Core/Src/clock_fsm.c:294:13:handle_view_time_mode	13
+../Core/Src/clock_fsm.c:340:13:handle_set_time_mode	23
+../Core/Src/clock_fsm.c:428:13:handle_set_alarm_mode	15
+../Core/Src/clock_fsm.c:490:13:handle_uart_update_mode	35
+../Core/Src/clock_fsm.c:640:13:display_mode_status	7
+../Core/Src/clock_fsm.c:672:13:displayTime	5
+../Core/Src/clock_fsm.c:707:6:clock_fsm_run	11
