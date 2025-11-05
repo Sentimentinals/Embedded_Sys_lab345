@@ -1,0 +1,7 @@
+../Core/Src/traffic_fsm.c:58:6:fsm_traffic_init	1
+../Core/Src/traffic_fsm.c:77:12:is_button_pressed	2
+../Core/Src/traffic_fsm.c:89:6:fsm_traffic_run	9
+../Core/Src/traffic_fsm.c:147:13:fsm_normal_mode_run	14
+../Core/Src/traffic_fsm.c:210:13:fsm_modify_mode_run	8
+../Core/Src/traffic_fsm.c:242:13:update_lcd_display	10
+../Core/Src/traffic_fsm.c:341:13:draw_traffic_lights	11
